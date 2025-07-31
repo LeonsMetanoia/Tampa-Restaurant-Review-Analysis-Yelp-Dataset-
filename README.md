@@ -6,7 +6,7 @@
 </p>
 
 
-My name is **Immanuel Leon Salomo**, and I’m currently a **Data Scientist Intern** at an ICT (Information and Communication Technology) company, **PLN Icon Plus**. In my role, I primarily work with historical customer and company asset data related to **fixed broadband services** and other infrastructure.
+My name is **Immanuel Leon Salomo**, and I’m currently a **Data Scientist Intern** at an ICT (Information and Communication Technology) company, **PLN Icon Plus**. In this role, I primarily work with historical customer and infrastructure-related data, particularly focusing on **PLN and Icon Plus services**, including **Iconnet**, a fixed broadband (Wi-Fi) service. The projects often involve analyzing data from existing customers and company assets to support better service delivery and operational insights.
 
 I'm actively building a strong portfolio to prepare myself for a full-time career in data science. I’m especially passionate about using data to solve real-world problems and uncover insights that lead to smarter and more strategic business decisions.
 
