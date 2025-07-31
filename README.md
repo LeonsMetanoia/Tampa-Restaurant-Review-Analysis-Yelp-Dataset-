@@ -1,6 +1,33 @@
-![SportsGoalGIF](https://github.com/user-attachments/assets/a1e8693b-1b5a-494b-8e82-5b5056a58504)# 🏙️ Tampa Restaurant Review & Health Inspection Analysis
+# 🏙️ Tampa Restaurant Review & Health Inspection Analysis
 
-This repository contains a data analysis project combining **Yelp reviews** with a simulated **Tampa health inspection dataset**, aiming to explore sentiment trends and possible correlations with health grades and violations.
+## 👋 Hello and Welcome!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da16d74d-c6d2-4a6d-a622-33bba6810264" alt="NapoleonDynamiteWaveGIF" />
+</p>
+
+
+My name is **Immanuel Leon Salomo**, and I’m currently a **Data Scientist Intern** at an ICT (Information and Communication Technology) company, **PLN Icon Plus**. In my role, I primarily work with historical customer and company asset data related to **fixed broadband services** and other infrastructure.
+
+I'm actively building a strong portfolio to prepare myself for a full-time career in data science. I’m especially passionate about using data to solve real-world problems and uncover insights that lead to smarter and more strategic business decisions.
+
+---
+
+## 📌 About This Project
+
+Starting on **July 30, 2025**, I began working on a project that integrates **Yelp application data**—including user reviews and business metadata—with a **simulated restaurant inspection dataset** for the Tampa, Florida area.
+
+This repository documents the entire journey:
+- The data sources used
+- Key challenges and how I addressed them
+- Exploratory analysis and sentiment classification
+- Insights drawn from the results
+
+The goal of this project is to **analyze sentiment trends** in Yelp reviews and explore their potential **correlation with health inspection grades and violations**, even though the grade data used here is simulated for demonstration purposes.
+
+---
+
+Thank you for stopping by and checking out my work! 😊
+Feel free to explore the notebooks and results in this repo.
 
 ---
 
@@ -61,7 +88,10 @@ This repository contains a data analysis project combining **Yelp reviews** with
 ---
 
 ## Data Collection -> Final Processed Data (df_model_sampled) 🏁🏁
-![SportsGoalGIF (2)](https://github.com/user-attachments/assets/a193555b-435f-4e11-9cad-e8c7a95cda5b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a193555b-435f-4e11-9cad-e8c7a95cda5b" alt="SportsGoalGIF (2)" />
+</p>
+
 
 <p align="center">
   <img src="prosesdata-yelp.jpg" alt="Data Processing Pipeline" width="600"/>
