@@ -101,7 +101,7 @@ Feel free to explore the notebooks and results in this repo.
 
 - How to **combine and clean multiple datasets** with different structures and naming conventions.
 - Learned to apply **fuzzy string matching** using `fuzzywuzzy` for messy or inconsistent business name matching.
-- Applied **BERT-based sentiment analysis** using Hugging Face `transformers` on real customer reviews.
+- Applied **BERT-based sentiment analysis** using Hugging Face `transformers` pre-trained model ("distilbert-base-uncased-finetuned-sst-2-english") on real customer reviews.
 - Improved understanding of **feature engineering** and **data sampling** for better model preparation.
 - Practiced creating **data visualizations** (e.g., word clouds, sentiment vs grade) to draw insights.
 - Gained hands-on experience with **EDA**, including analysis of relationships between sentiment and inspection outcomes.
