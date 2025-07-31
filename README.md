@@ -68,12 +68,13 @@ Feel free to explore the notebooks and results in this repo.
 4. **Sentiment Analysis**  
    Applied BERT-based classifier to Yelp reviews to label them as **POSITIVE** or **NEGATIVE**.
 
-5. **Exploratory Data Analysis (EDA)**  
-   - Distribution of health grades.  
+5. **Exploratory Data Analysis (EDA)**
+   - Top 10 Most Positive and Negative Reviewed Restaurant in Tampa Florida.
+   - Average Review Stars by Grade.  
    - Relationship between sentiment and inspection scores.  
    - Most common keywords per sentiment.
 
-6. **Word Cloud Visualization**  
+7. **Word Cloud Visualization**  
    Displayed frequent words in positive and negative reviews using `WordCloud`.
 
 ---
