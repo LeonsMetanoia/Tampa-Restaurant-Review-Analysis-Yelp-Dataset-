@@ -1,4 +1,4 @@
-# 🏙️ Tampa Restaurant Review & Health Inspection Analysis
+![SportsGoalGIF](https://github.com/user-attachments/assets/a1e8693b-1b5a-494b-8e82-5b5056a58504)# 🏙️ Tampa Restaurant Review & Health Inspection Analysis
 
 This repository contains a data analysis project combining **Yelp reviews** with a simulated **Tampa health inspection dataset**, aiming to explore sentiment trends and possible correlations with health grades and violations.
 
@@ -59,6 +59,13 @@ This repository contains a data analysis project combining **Yelp reviews** with
 - `transformers` (Hugging Face)
 
 ---
+
+## Data Collection -> Final Processed Data (df_model_sampled) 🏁🏁
+![SportsGoalGIF (2)](https://github.com/user-attachments/assets/a193555b-435f-4e11-9cad-e8c7a95cda5b)
+
+<p align="center">
+  <img src="prosesdata-yelp.jpg" alt="Data Processing Pipeline" width="600"/>
+</p>
 
 ## 📚 What I Learned
 
