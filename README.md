@@ -10,7 +10,7 @@ This repository contains a data analysis project combining **Yelp reviews** with
 |------------------------------|-------------|
 | `health_risk_pred.ipynb`     | Main Jupyter notebook containing full data processing, sentiment analysis, EDA, and risk prediction. |
 | `requirements.txt`           | Python package dependencies. |
-| `df_model_sampled2.csv`      | Processed dataset after sampling and feature engineering. |
+| `df_model_sampled2.csv`      | Processed dataset after sampling. |
 | `sentimen_df_model_sampled.csv` | Dataset with BERT-based sentiment prediction results. |
 
 ---
@@ -59,6 +59,16 @@ This repository contains a data analysis project combining **Yelp reviews** with
 - `transformers` (Hugging Face)
 
 ---
+
+## 📚 What I Learned
+
+- How to **combine and clean multiple datasets** with different structures and naming conventions.
+- Learned to apply **fuzzy string matching** using `fuzzywuzzy` for messy or inconsistent business name matching.
+- Applied **BERT-based sentiment analysis** using Hugging Face `transformers` on real customer reviews.
+- Improved understanding of **feature engineering** and **data sampling** for better model preparation.
+- Practiced creating **data visualizations** (e.g., word clouds, sentiment vs grade) to draw insights.
+- Gained hands-on experience with **EDA**, including analysis of relationships between sentiment and inspection outcomes.
+
 
 ## 🚀 How to Run
 
